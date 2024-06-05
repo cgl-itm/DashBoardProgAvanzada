@@ -5,3 +5,5 @@ xsquare = x**2
 y = np.sin(xsquare)
 w = np.tan(xsquare)
 z = np.cos(xsquare)
+
+g = 10*np.sin(x+1)
